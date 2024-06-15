@@ -1,2 +1,2 @@
-# Portfolio-V2
-website for replacing the old .np site
+A repo for the portfolio live at:
+manee.com.np
