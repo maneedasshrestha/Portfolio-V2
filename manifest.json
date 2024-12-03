@@ -1,0 +1,22 @@
+{
+    "name": "Manee's Portfolio",
+    "short_name": "Manee's PWA",
+    "description": "This is a PWA for portfolio",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "assets/favicon/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/favicon/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
+    ]
+  }
+  
